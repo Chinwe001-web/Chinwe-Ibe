@@ -79,10 +79,11 @@ KEY BUSINESS QUESTIONS THIS PAGE ANSWERS
 
 ANALYSIS AND INSIGHTS
 
-• The business is growing in terms of volume and not profitability.Sales grew steadily from $442k in January to $543k in December.Its also shown that COGS was above the sales throughout the same period which indicates that low returns was not seasonal but structural.
+• The business grew in terms of volume and not profitability.Sales grew steadily from $442k in January to $543k in December.The COGS was above the sales throughout the same period which indicates that low returns was not seasonal but structural.
 
-• There was no major break even during the year and the consistent gap between the COGS and revenue ruled out occureneces like one off bad month,promotional campaign periods which simply points to pricing starategies not properly set.
-Revenue is concentrated more in the South($1.30M) and North $1.26M while the Central region$940.5k was lagging creating regional imbalance in sales.
+• There was no major break even during the year and the consistent gap between the COGS and revenue ruled out occurences like one off bad month or promotional campaign periods which simply points to pricing starategies not properly set.
+
+• Revenue is concentrated more in the South($1.30M) and North $1.26M while the Central region$940.5k was lagging creating regional imbalance in sales.
 
 • Electronics is the category that records the highest sales volume with a revenue of $3,32M making it the primary driver of overall growth while Grocery had the least revenue $82k
 
