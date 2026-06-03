@@ -5,6 +5,22 @@ PROJECT OVERVIEW
 Despite generating 5.9M in sales across  34k Orders and a YOY growth of 52.7%,an e-commerce company was making a negative total returns.The total cost of goods sold exceeded the revenue also compounding this was a high product return rate which translated to further the business running at a loss.This Project shows an end-to-end e-commerce cycle that analyzes Sales,Product Performance,Customer demography,Regional distribution as well as Return rate overviews. 
 My task was to analyze sales,identify the most returned products,highlight top selling products and also provide actionable recommendations for improving revenue and reducing product returns.
 
+OBJECTIVES
+
+• Analyze sales performanceand returns over time.
+
+• Identify top selling products.
+
+• Identify the most returned products.
+
+• Analyze regional sales trend
+
+• Understand customer's purchase behaviour.
+
+• Evaluate return rate.
+
+
+
 DATASET OVERVIEW
 
 The dataset used in this project was sourced from kaggle-https://www.kaggle.com/datasets/angellawl/e-commerce-dataset-order-and-return
