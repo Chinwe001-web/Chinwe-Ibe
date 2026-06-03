@@ -9,11 +9,11 @@ DATASET OVERVIEW
 
 The dataset used in this project was sourced from kaggle-https://www.kaggle.com/datasets/angellawl/e-commerce-dataset-order-and-return
 
-Size-34485 Transactions
+• Size-34485 Transactions
 
-Duration-Jan 2023- Dec 2025
+• Duration-Jan 2023- Dec 2025
 
-No of Columns-19
+• No of Columns-19
 
 Created new fields like;Age_range category,transit_days range.
 
@@ -23,25 +23,25 @@ TOOLS USED
 
 Tools used in carrying out this project were;
 
-Excel -Was used to perform data cleaning,fixing of missing values,eliminating duplicates and standardizing the column formats
+• Excel -Was used to perform data cleaning,fixing of missing values,eliminating duplicates and standardizing the column formats
 
-SQL-Was used to derive the KPI’s from the raw data
+• SQL-Was used to derive the KPI’s from the raw data
 
-Power BI-Was used to create some dax measures,new columns,table and display visuals that tell a story about the business.
+• Power BI-Was used to create some dax measures,new columns,table and display visuals that tell a story about the business.
 
 KEY METRICS ANALYZED
 
-Total Sales: $5.9M
+• Total Sales: $5.9M
 
-Total Orders: 34,485
+• Total Orders: 34,485
 
-Total Returns: ($308.5k)
+• Total Returns: ($308.5k)
 
-Return Rate %: 5.52
+• Return Rate %: 5.52
 
-Total Cost:$6.2M
+• Total Cost:$6.2M
 
-Average Order Value:  $170.0
+• Average Order Value:  $170.0
 
 DASHBOARD OVERVIEW
 
@@ -51,76 +51,76 @@ The PowerBI report is structured into two focused pages that is the Sales overvi
 
 KEY BUSINESS QUESTIONS THIS PAGE ANSWERS
 
-What is the trend of sales And cost over time?
+1.What is the trend of sales And cost over time?
 
-What product categories are top selling?
+2.What product categories are top selling?
 
-Which region generates the most revenue?
+3.Which region generates the most revenue?
 
-What payment method is most preferred and used by customers?
+4.What payment method is most preferred and used by customers?
 
-What group of customers have  the greatest spending power?
+5.What group of customers have  the greatest spending power?
 
 ANALYSIS AND INSIGHTS
 
-The business is growing in terms of volume and not profitability.Sales grew steadily from $442k in January to $543k in December.Its also shown that COGS was above the sales throughout the same period which indicates that low returns was not seasonal but structural.
+• The business is growing in terms of volume and not profitability.Sales grew steadily from $442k in January to $543k in December.Its also shown that COGS was above the sales throughout the same period which indicates that low returns was not seasonal but structural.
 
-There was no major break even during the year and the consistent gap between the COGS and revenue ruled out occureneces like one off bad month,promotional campaign periods which simply points to pricing starategies not properly set.
+• There was no major break even during the year and the consistent gap between the COGS and revenue ruled out occureneces like one off bad month,promotional campaign periods which simply points to pricing starategies not properly set.
 Revenue is concentrated more in the South($1.30M) and North $1.26M while the Central region$940.5k was lagging creating regional imbalance in sales.
 
-Electronics is the category that records the highest sales volume with a revenue of $3,32M making it the primary driver of overall growth while Grocery had the least revenue $82k
+• Electronics is the category that records the highest sales volume with a revenue of $3,32M making it the primary driver of overall growth while Grocery had the least revenue $82k
 
-Credit Cards(35%) and Debit Cards(25%)are the most preferred mode of payment ,this is vital for improving customer retention and conversion.
+• Credit Cards(35%) and Debit Cards(25%)are the most preferred mode of payment ,this is vital for improving customer retention and conversion.
 
-Age group 18-43 which are predominantly the GENZ and Millenials raked in the highest revenue $1.98M with an average order value of $175k this shows they posses a high spending power followed by the Ages 55+ with a revenue of $1.6M also contributed significantly to the growth of the business.
+• Age group 18-43 which are predominantly the GENZ and Millenials raked in the highest revenue $1.98M with an average order value of $175k this shows they posses a high spending power followed by the Ages 55+ with a revenue of $1.6M also contributed significantly to the growth of the business.
 
 RECOMMENDATIONS
 
-Review the pricing model across all categories by conducting a full unit economics review that will ensure products are not sold below the true landed cost per order, compare with the AOV of $170 then identify the break even point and reprice accordingly.
+• Review the pricing model across all categories by conducting a full unit economics review that will ensure products are not sold below the true landed cost per order, compare with the AOV of $170 then identify the break even point and reprice accordingly.
 
-Ensure stock availibilty,carrier handling agreements,packaging standarads and fast delivery are prioritised for electronics above all categories,giving that it contributes majorly to the business growth.
+• Ensure stock availibilty,carrier handling agreements,packaging standarads and fast delivery are prioritised for electronics above all categories,giving that it contributes majorly to the business growth.
 
-Invest in marketing and promotional startegies on home and sports categories to grow both to at least $1.5M mark over the next 12months since they are stable contributors with reliable margins.This is a risk management action aiming to reduce dependency on electronics.
+• Invest in marketing and promotional startegies on home and sports categories to grow both to at least $1.5M mark over the next 12months since they are stable contributors with reliable margins.This is a risk management action aiming to reduce dependency on electronics.
 
-Run a targeted promotion for the central region and ensure that discounts are tied to the COD and UPI payment methods which are next to the often used card payment,un;ocking more conversions from the former.Schedule deliveries for next day or 2days transit.
+• Run a targeted promotion for the central region and ensure that discounts are tied to the COD and UPI payment methods which are next to the often used card payment,un;ocking more conversions from the former.Schedule deliveries for next day or 2days transit.
 
-Optimize and ensure zero friction on all card transactions since 60% of payment runs through that medium.Monthly audit on checkout funnel,payment gateway performance  and card authorization in order for customers to have seamless transactions.
+• Optimize and ensure zero friction on all card transactions since 60% of payment runs through that medium.Monthly audit on checkout funnel,payment gateway performance  and card authorization in order for customers to have seamless transactions.
 
-RETURNS OVERVIEW
+• RETURNS OVERVIEW
 
 <img width="1190" height="662" alt="image png (1)" src="https://github.com/user-attachments/assets/66fc878c-0af4-472b-b01f-d01893796d5e" />
 
-KEY BUSINESS QUESTIONS THIS PAGE ANSWERS
+• KEY BUSINESS QUESTIONS THIS PAGE ANSWERS
 
-What product category was being returned the most?
+1.What product category was being returned the most?
 
-What region experienced the return of products and what category was being returned?
+2.What region experienced the return of products and what category was being returned?
 
-On what transit day did the return rate spike?
+3.On what transit day did the return rate spike?
 
-What was the highest return  reason for most customers?
+4.What was the highest return  reason for most customers?
 
-What time of the year was products being returned the most?
+5.What time of the year was products being returned the most?
 
 ANALYSIS AND INSIGHTS
 
-Returns majorly occured in April and December throughout the year.This could be traced to seasonal purchases that occurs at those periods therefore the business should properly plan towards those periods to avoid preventable loss.
+• Returns majorly occured in April and December throughout the year.This could be traced to seasonal purchases that occurs at those periods therefore the business should properly plan towards those periods to avoid preventable loss.
 
-East region showed the highest return rate of 5.9% with fashion and Electronics as the major drivers.Also transit time for this region spikes at day 5 giving reasons to slow deliveries experienced and more product returns.
+• East region showed the highest return rate of 5.9% with fashion and Electronics as the major drivers.Also transit time for this region spikes at day 5 giving reasons to slow deliveries experienced and more product returns.
 
-Fashion generated the highest return at 8.3% followed by Electronics at 7.3%.Clothings not delivered as at when stated can cause customers to reject deliveries as well as specifications of electronics not fully captured can lead to  a return.
+• Fashion generated the highest return at 8.3% followed by Electronics at 7.3%.Clothings not delivered as at when stated can cause customers to reject deliveries as well as specifications of electronics not fully captured can lead to  a return.
 
-‘Slow delivery’ and ‘Wrong Items’ are two major reasons for product returns.This should be checkmated because customers proritize getting their goods right on time and accurately delivered.
+• ‘Slow delivery’ and ‘Wrong Items’ are two major reasons for product returns.This should be checkmated because customers proritize getting their goods right on time and accurately delivered.
 
 RECOMMENDATIONS
 
-On slow deliveries by March and November each year renegotiation with couriers offering faster shipping on high value electric orders should be considered to avoid extending transit days beyond day 5.
+• On slow deliveries by March and November each year renegotiation with couriers offering faster shipping on high value electric orders should be considered to avoid extending transit days beyond day 5.
 
-The customer service team should be briefed on the most reoccuring return reasons so they can proactively  intimate customers  at the point of sale through chat/calls/emails reasons being that this action is cost effective rather than the cost of processing a returned order.
+• The customer service team should be briefed on the most reoccuring return reasons so they can proactively  intimate customers  at the point of sale through chat/calls/emails reasons being that this action is cost effective rather than the cost of processing a returned order.
 
-Having a meaningful customer base of 7901 clients,segmentation of customers into groups such as first-time buyers,returning and high value customers will significantly improve customer retention and loyalty which inturn boost revenue.
+• Having a meaningful customer base of 7901 clients,segmentation of customers into groups such as first-time buyers,returning and high value customers will significantly improve customer retention and loyalty which inturn boost revenue.
 
-An audit of the product pages as regards images,specifications,size guides,product descriptions needs to be carried out prior to peak seasons to ensure every customer receive exactly what was being ordered from the page.
+• An audit of the product pages as regards images,specifications,size guides,product descriptions needs to be carried out prior to peak seasons to ensure every customer receive exactly what was being ordered from the page.
 
 SQL ANALYSIS-
 
