@@ -304,7 +304,15 @@ LIMIT 10;
 The dataset used in this project was sourced from kaggle-https://www.kaggle.com/datasets/angellawl/e-commerce-dataset-order-and-return
 
 
-Built by Chinwe Ibe- www.linkedin.com/in/ chinwe-ibe-431b86102
+Built by Chinwe Ibe
+
+**CONNECT WITH ME**
+
+**LINKEDIN**-www.linkedin.com/in/
+chinwe-ibe-431b86102
+
+**EMAIL**-chukwuekechinwe@yahoo.com
+
 
 
 
