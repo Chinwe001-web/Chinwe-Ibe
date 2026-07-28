@@ -308,9 +308,7 @@ Built by Chinwe Ibe
 
 **CONNECT WITH ME**
 
-**LINKEDIN**-www.linkedin.com/in/
-chinwe-ibe-431b86102
-
+**LINKEDIN**-www.linkedin.com/in/chinweibe1
 **EMAIL**-chukwuekechinwe@yahoo.com
 
 
